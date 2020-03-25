@@ -1,8 +1,6 @@
 #write your code here
 
-def countdown
-  
-  x = 10
+def countdown(x)
   
   while x > 0
   
@@ -16,9 +14,7 @@ def countdown
 
 end
 
-def countdown_with_sleep
-   
-  x = 10
+def countdown_with_sleep(x)
   
   while x > 0
   
