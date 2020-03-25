@@ -26,7 +26,7 @@ def countdown_with_sleep
 
   x -= 1
   
-  sleep 5.seconds
+  sleep 1.seconds
   
 end
 
