@@ -26,8 +26,10 @@ def countdown_with_sleep
 
   x -= 1
   
-  sleep 1.second
+  sleep 1.seconds
   
 end
+
+"HAPPY NEW YEAR!"
 
 end
